@@ -1,8 +1,8 @@
 [[libportaudio]]
 arch = "aarch64"
-git-tree-sha1 = "0e461566f6e5ba077542416634b13c26b722e5ff"
+git-tree-sha1 = "62ac9b93d0e9ace98f553889e7f725418737b3a1"
 os = "macos"
 
     [[libportaudio.download]]
-    sha256 = "493049884a67b3e858e817f7946dc00c5eda270dcc3c573992b7cddc3e0e9b19"
-    url = "https://github.com/abhayap/libportaudio_jll/releases/download/libportaudio-v19.6.0+3/libportaudio.v19.6.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "51a2f0461c47136718242a81333868bd20044c9f4b82e37d181351f965453ee6"
+    url = "https://github.com/abhayap/libportaudio_jll/releases/download/libportaudio-v19.7.0+0/libportaudio.v19.7.0.aarch64-apple-darwin.tar.gz"
